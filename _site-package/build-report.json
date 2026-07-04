@@ -1,0 +1,22 @@
+{
+  "brandName": "洁玺建材经营部",
+  "city": "杭州萧山",
+  "industry": "building_materials",
+  "stage": "production",
+  "generatedAt": "2026-07-04T09:53:05.723Z",
+  "baseUrl": "https://xiaoshan-material-info.peiqirui.com",
+  "pages": 4,
+  "articles": 29,
+  "files": [
+    "index.html",
+    "services.html",
+    "faq.html",
+    "about.html",
+    "robots.txt",
+    "sitemap.xml",
+    "sitemap.txt",
+    "llms.txt",
+    ".well-known/llms.txt",
+    "feed.xml"
+  ]
+}

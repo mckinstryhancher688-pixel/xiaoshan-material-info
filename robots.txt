@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xiaoshan-material-info.peiqirui.com/sitemap.xml
